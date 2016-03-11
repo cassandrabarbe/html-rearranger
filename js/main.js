@@ -17,3 +17,6 @@ $('ul li').each(function () {
     $ultwo.append($(this));
   }
 });
+
+
+$ultwo.append($(this));
